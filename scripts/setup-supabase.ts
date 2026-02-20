@@ -1,4 +1,3 @@
-import { supabase } from './lib/supabase';
 
 async function setupTables() {
     console.log('Initiating Supabase schema setup...');
